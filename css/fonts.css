@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "italic";
+    src: url(/fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: " varib";
+    src: url(/fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "bold";
+    src: url(/fonts/Montserrat-SemiBold.ttf);
+}
+font-face {
+    font-family: "thin";
+    src: url(/fonts/Montserrat-ThinItalic.ttf);
+}
